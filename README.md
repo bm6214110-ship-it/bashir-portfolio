@@ -1,5 +1,21 @@
 # bashir-portfolio
 
-Portfolio website for Bashir bin Mohammed — Astro + React + Tailwind, bilingual AR/EN, admin dashboard (seed).
+Portfolio website for Bashir bin Mohammed — Astro + React + Tailwind, bilingual AR/EN, admin dashboard scaffold.
 
-Status: Phase 1 scaffold initialized.
+## Stack
+- Astro
+- React islands
+- Tailwind CSS
+- Supabase-ready
+- Cloudflare Pages-ready
+
+## Local development
+```bash
+npm install
+npm run dev
+```
+
+## Production build
+```bash
+npm run build
+```
